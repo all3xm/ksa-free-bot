@@ -4,7 +4,7 @@
 
 **Community:** [discord.gg/ksahub](https://discord.gg/ksahub)
 
-KSA Free BOT is a free, beginner-friendly Discord bot foundation for Windows. It includes useful slash commands, simple local storage, clear configuration, and one-click start and stop scripts.
+KSA Free BOT is a free, beginner-friendly Discord bot foundation. It includes useful slash commands, simple local storage, clear configuration, and optional one-click start and stop scripts.
 
 This project was created after seeing children and adults with little coding experience get scammed while looking for a personal Discord bot. Some people receive unsafe downloads, hidden code, stolen tokens, or bots designed with malicious intentions. KSA Free BOT offers a small and readable starting point that people can inspect, understand, and build upon without paying for unnecessary features.
 
